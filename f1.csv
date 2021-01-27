@@ -1,0 +1,6 @@
+class,f1
+Logistic Regresyon,0.7878
+Knn,0.76
+Naive Bayes,0.75
+Karar Ağaçları,0.73
+YSA,0.7826
